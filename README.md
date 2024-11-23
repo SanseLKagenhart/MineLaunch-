@@ -1,1 +1,1 @@
-# MineLaunch++
+# MineLaunch++ [ Supports Offline only ]
